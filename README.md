@@ -20,6 +20,7 @@ for navigation react-router-dom   ,
  
  to access information about the current URL  use uselocation  ,
 
+project demo :-- https://dazzling-kashata-c43338.netlify.app/
 
 # React + Vite
 
