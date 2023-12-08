@@ -3,7 +3,7 @@ to run project  cd ticket-system
 
 and write command npm run dev  ,
 
-tools ,library and framework that i used 
+tools ,library and framework that i used are :--
 
 for faster development server used vite,                                                                                                                                                         
 for styling Tailwind css framework  ,
